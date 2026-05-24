@@ -1,0 +1,6 @@
+{
+  "name": "Press Kit - Artistas Visuales",
+  "description": "Press kit y dossier de artistas para Joaquín Salerno y Sofía Ruiz, presentando propuestas de arte visual en vivo, historial de shows y rider técnico.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
